@@ -1,2 +1,2 @@
-# Project-Relax-Launcher_ALPHA
-Project Relax is comming with his first launcher !
+# Project-Relax-Launcher
+Project Relax's first launcher !
