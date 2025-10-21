@@ -1,2 +1,2 @@
 # Project-Relax-Launcher
-Project Relax's first launcher !
+Project Relax's official launcher !
